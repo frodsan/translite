@@ -31,7 +31,7 @@ module Translite
   }
 
   def self.transliterate(str, replacement = nil)
-    str.gsub(/[^\x00-\x7f]/u) do |chr|
+    return str.gsub(/[^\x00-\x7f]/u) do |chr|
       APPROXIMATIONS[chr] || replacement
     end
   end
