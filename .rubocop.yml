@@ -1,0 +1,4 @@
+inherit_from: https://gitlab.com/frodsan/dotfiles/raw/master/.rubocop.yml
+
+Metrics/LineLength:
+  Max: 120
