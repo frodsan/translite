@@ -1,4 +1,4 @@
-Translite [![Build Status](https://travis-ci.org/frodsan/translite.svg)](https://travis-ci.org/frodsan/translite)
+Translite [![Build Status](https://gitlab.com/frodsan/translite/badges/master/build.svg)](https://gitlab.com/frodsan/translite/builds)
 =========
 
 Replaces non-ASCII characters with an ASCII approximation.
@@ -50,7 +50,7 @@ Contributing
 Fork the project with:
 
 ```
-$ git clone git@github.com:frodsan/translite.git
+$ git clone git@gitlab.com:frodsan/translite.git
 ```
 
 To install dependencies, use:
@@ -65,7 +65,7 @@ To run the test suite, do:
 $ rake test
 ```
 
-For bug reports and pull requests use [GitHub][issues].
+For bug reports and pull requests use [GitLab][issues].
 
 License
 -------
@@ -73,4 +73,4 @@ License
 Translite is released under the [MIT License][mit].
 
 [mit]: http://www.opensource.org/licenses/MIT
-[issues]: https://github.com/frodsan/translite/issues
+[issues]: https://gitlab.com/frodsan/translite/issues
