@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
 	s.name        = "translite"
-  s.version     = "1.0.1"
+  s.version     = "1.0.2"
   s.summary     = "Replaces non-ASCII characters with an ASCII approximation"
   s.description = s.summary
   s.author      = "Francesco Rodríguez"
