@@ -1,4 +1,4 @@
-Translite
+Translite [![Build Status](https://travis-ci.org/frodsan/translite.svg)](https://travis-ci.org/frodsan/translite)
 =========
 
 Replaces non-ASCII characters with an ASCII approximation.
